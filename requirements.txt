@@ -5,3 +5,4 @@ seaborn
 scikit-learn
 tensorflow
 pickle
+Flask
