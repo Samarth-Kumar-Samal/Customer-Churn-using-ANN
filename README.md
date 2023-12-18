@@ -47,9 +47,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 9. After execution, you will be able to access the web application where you predict the customer churn by entering 19 different input values.
-## Screenshots of WebApp
-
-![App Screenshot](<img width="1271" alt="image" src="https://github.com/Samarth-Kumar-Samal/Customer-Churn-using-ANN/assets/153613616/65bcae5b-69bf-46d7-92f6-3c50516ab525">)
 
 ## Contributing
 
