@@ -17,10 +17,6 @@
 6. [Git CLi](https://git-scm.com/downloads)
 
 
-## Table of Contents
-- Installation of dependencies and Execution of Customer-Churn-Prediction Web Application
--  
-
 ## Installation of dependencies and Execution of Customer-Churn-Prediction Web Application :
 1. Go to my Github Repository location using this link : [Github Repository by Samarth-Kumar-Samal](https://github.com/Samarth-Kumar-Samal/Customer-Churn-using-ANN) (**Windows**) or https://github.com/Samarth-Kumar-Samal/Customer-Churn-using-ANN (**Linux**)
 2. Git clone or download as zip folder the entire repository into your computer using command :
