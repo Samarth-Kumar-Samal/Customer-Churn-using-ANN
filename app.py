@@ -1,9 +1,10 @@
 import streamlit as st
 import pickle
 import numpy as np
+import tensorflow as tf
 
 # Load the model and scaler
-model = pickle.load(open('ANN_Model.pkl', 'rb'))
+model = tf.keras.models.load_model('ann_model.h5')
 scaler = pickle.load(open('Scaler.pkl', 'rb'))
 
 def predict_api(data):
