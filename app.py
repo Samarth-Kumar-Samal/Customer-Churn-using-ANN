@@ -17,7 +17,7 @@ def main():
 
     # Setting up the page configutation
     st.set_page_config(
-    page_title='Covid-19 Prediction Application',
+    page_title='Customer Churn Prediction Application',
     page_icon='💻',
     layout='wide'
     )
