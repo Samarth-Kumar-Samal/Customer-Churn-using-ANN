@@ -14,7 +14,15 @@ def predict(data):
     return output[0]
 
 def main():
-    st.title('Customer Churn Prediction')
+
+    # Setting up the page configutation
+    st.set_page_config(
+    page_title='Covid-19 Prediction Application',
+    page_icon='💻',
+    layout='wide'
+    )
+
+    st.title('💻Customer Churn Prediction')
 
     # Form to take input
     st.header('Predict using Form')
